@@ -1,0 +1,9 @@
+M.Arafat Hossain,22,bsse0601@iit.du.ac.bd
+M.Nasimuzzaman Himel,21,bsse0602@iit.du.ac.bd
+M.Ali gufur,23,bsse0603@iit.du.ac.bd
+Pritom Saha Akash,20,bsse0604@iit.du.ac.bd
+Moshiur Rahman Sadik,22,bsse0606@iit.du.ac.bd
+Abu Baker Siddique,22,bsse0609@iit.du.ac.bd
+A.S.M khairul Alam,23,bsse0612@iit.du.ac.bd
+Pritom Saha Akash,20,bsse0104@iit.du.ac.bd
+M.Ali gufur,23,bsse0203@iit.du.ac.bd
