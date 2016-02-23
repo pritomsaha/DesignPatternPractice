@@ -14,5 +14,7 @@ public class Line extends Shape{
 		Canvas.graphics.drawLine(x1, y1, x2, y2);
 	}
 	@Override
-	public void buildShape() {}
+	public void buildShape() {
+
+	}
 }
