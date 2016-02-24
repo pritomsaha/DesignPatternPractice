@@ -1,4 +1,4 @@
-package dp.akash.strategic_pattern;
+package dp.akash.strategy_pattern;
 
 public class AgressiveBehaviour implements IBehaviour{
 

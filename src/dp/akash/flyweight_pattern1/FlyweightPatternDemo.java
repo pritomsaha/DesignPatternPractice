@@ -11,6 +11,7 @@ public class FlyweightPatternDemo {
             Circle circle=(Circle)ShapeFactory.getCircle(getRandomColor());
             circle.setX(getRandomX());
             circle.setY(getRandomY());
+            circle.setRadius(getRandomRadius());
             circle.draw();
         }
     }
@@ -22,6 +23,9 @@ public class FlyweightPatternDemo {
     }
     private static int getRandomY() {
         return (int)(Math.random()*100);
+    }
+    private static int getRandomRadius(){
+        return (int)(Math.random()*30);
     }
 
 }
