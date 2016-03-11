@@ -2,6 +2,7 @@ package dp.akash.composite_pattern;
 
 public class Line extends Shape{
 	private int x1, y1 , x2, y2;
+	private Canvas canvas=Canvas.getInstance();
 
 	public Line(int x1, int y1, int x2, int y2) {
 		this.x1 = x1;
@@ -11,7 +12,7 @@ public class Line extends Shape{
 	}
 	@Override
 	public void draw() {
-		Canvas.graphics.drawLine(x1, y1, x2, y2);
+		canvas.drawLine(x1, y1, x2, y2);
 	}
 	@Override
 	public void buildShape() {
